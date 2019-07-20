@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Rick Grimes",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2010/12/TWD9_NATURE_Andrew_0048_RT-800x600.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Daryl Dixon",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2011/09/TWD9_FLARE_Norman_0037_RT-800x600.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Glenn Rhee",
+        "image": "https://ewedit.files.wordpress.com/2015/03/yeun-02.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Carol Peletier",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2011/09/TWD9_NATURE_Melissa_0035_RT-800x600.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Maggie Greene",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2012/09/TWD9_NATURE_Lauren_0072_RT-800x600.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Michonne",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2012/09/TWD9_FLARE_Danai_0004_RT-800x600.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tara Chambler",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2014/09/TWD9_FLARE_Alanna_0002_RT-800x600.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Eugene Porter",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2012/09/TWD9_FLARE_Josh_0012_RT-800x600.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Rosita Espinosa",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2014/09/TWD9_FLARE_Christian_0017_RT-800x600.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Gabriel Stokes",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2014/09/TWD9_FLARE_Seth_0017_RT-800x600.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Enid",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2017/10/TWD9_FLARE_Katelyn_0020_RT-800x600.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Aaron",
+        "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/09/TWD9_NATURE_Ross_0040_RT-800x600.jpg"
+    }
+]

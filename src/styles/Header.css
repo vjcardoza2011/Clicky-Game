@@ -1,0 +1,57 @@
+@font-face {
+    font-family: ZombieHolocaust;
+    src: url("/src/styles/images/Zombie_Holocaust.ttf");
+}
+
+.header {
+    height: 220px;
+    text-align: center;
+    background-image: url("./images/TWD-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.header h1 {
+    padding-top: 35px;
+    font-size: 72px;
+    font-family: ZombieHolocaust;
+    font-weight: bold;
+    color: 	rgb(153, 38, 23);
+    text-shadow:
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+}
+
+.header p {
+    font-size: 26px;
+    color: 	rgb(153, 38, 23);
+    text-shadow:
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+}
+
+@media all and (max-width: 800px) { 
+ 
+    .header h1 {
+        padding-top: -40px;
+        font-size: 60px; 
+    }
+    .header p {
+        font-size: 24px;
+    }
+}
+
+@media all and (max-width: 650px) { 
+
+    .header h1 {
+        font-size: 48px;
+    }
+    .header p {
+        font-size: 20px;
+    }
+}
