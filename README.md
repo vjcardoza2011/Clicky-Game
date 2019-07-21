@@ -1,7 +1,12 @@
 # Clicky-Game
 
+## Overview
+
+For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+
 ## Deployed Link
 
+[https://vjcardoza2011.github.io/Clicky-Game/]
 
 ## Instructions
 
@@ -13,3 +18,7 @@
 * If you click on all 12 characters in a row, you win! VICTORY!!!
 * Here's the tricky part though... the cards will shuffle on the page every time you click a card.
 * ENJOY!
+
+## DEMO
+
+ ![Alt text](public/assets/ReadMePic.JPG)
