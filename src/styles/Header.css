@@ -1,22 +1,30 @@
 @font-face {
-    font-family: ZombieHolocaust;
-    src: url("/src/styles/images/Zombie_Holocaust.ttf");
-}
+    font-family:"Zombie Holocaust";
+    src:url("/src/styles/images/Zombie_Holocaust.eot") format("eot"),
+        url("/src/styles/images/Zombie_Holocaust.woff") format("woff"),
+        url("/src/styles/images/Zombie_Holocaust.ttf") format("truetype"),
+        url("/src/styles/images/Zombie_Holocaust.svg") format("svg");
+        font-weight:normal;
+        font-style:normal;
+        font-stretch: expanded;
+    }
+
+    body {
+        background-image: url("./images/TWD-background.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
 
 .header {
-    height: 220px;
+    height: 300px;
     text-align: center;
-    background-image: url("./images/TWD-background.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
     padding-bottom: 20px;
 }
 
 .header h1 {
     padding-top: 35px;
     font-size: 72px;
-    font-family: ZombieHolocaust;
-    font-weight: bold;
+    font-family: "Zombie Holocaust";
     color: 	rgb(153, 38, 23);
     text-shadow:
     -1px -1px 0 #000000,
@@ -26,7 +34,8 @@
 }
 
 .header p {
-    font-size: 26px;
+    font-size: 30px;
+    font-family: "ITC Franklin Gothic", cursive;
     color: 	rgb(153, 38, 23);
     text-shadow:
     -1px -1px 0 #000000,

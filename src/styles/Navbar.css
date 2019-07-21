@@ -1,0 +1,26 @@
+.navbar {
+    background-color: rgb(20, 61, 33);
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 32px;
+    font-family: "ITC Franklin Gothic", cursive;
+
+}
+
+.navbar li {
+    display: inline-block;
+    color: white;
+    font-family: "ITC Franklin Gothic", cursive;
+    
+}
+
+.navcenter {
+    font-size: 32px;
+    text-align: center;
+}
+
+.score {
+    font-size: 24px;
+}
