@@ -6,7 +6,7 @@ For this assignment, you'll create a memory game with React. This assignment wil
 
 ## Deployed Link
 
-[https://vjcardoza2011.github.io/Clicky-Game/]
+(https://vjcardoza2011.github.io/Clicky-Game/)
 
 ## Instructions
 
